@@ -45,7 +45,7 @@ The through-line across 8 years: **systems that don't just process data, but mak
 
 ---
 
-## ⚡ The Stack
+## ⚡ The Stack 
 
 <div align="center">
 
