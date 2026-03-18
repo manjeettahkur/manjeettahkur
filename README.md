@@ -173,18 +173,19 @@ Cloud-native backend for ingesting wearable + clinical data. High-throughput pip
 
 ---
 
-## 📈 GitHub Stats
+## `$ htop` — GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manjeettahkur&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeettahkur&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+![Stats](./assets/stats.svg)
+&nbsp;&nbsp;
+![Top Langs](./assets/top-langs.svg)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=manjeettahkur&theme=tokyonight&hide_border=true)
+![Streak](./assets/streak.svg)
 
 </div>
 
