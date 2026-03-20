@@ -100,9 +100,9 @@ The through-line across 8 years: **systems that don't just process data, but mak
 
 ```go
 type CurrentFocus struct {
-    Project   string   // "Go Code Analysis Engine"
-    Stack     []string // ["Go", "Neo4j", "AST Parsing", "Claude API"]
-    Stage     string   // "Stage 2: AST → Knowledge Graph ingestion"
+    Project   string   // "Developing Harness"
+    Stack     []string // ["Go","TypeScript", "Neo4j", "AST Parsing", "Claude API"]
+    Stage     string   // "Learning Stage"
     Goal      string   // "Give LLMs deep codebase understanding"
     Learning  []string // ["Claude Certified Architect", "Agentic Patterns"]
 }
